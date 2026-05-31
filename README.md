@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pure-happiness/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Pure Happiness](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pure-happiness/) |
+| **Get License** | [Obtain a Music License for Pure Happiness](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pure-happiness/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `05188d74ada089950c978cc868394d5fa6ebe07ee4246f311fdcfe38e974c0a8` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
