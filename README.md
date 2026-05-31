@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pure-happiness/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Pure Happiness](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pure-happiness/) |
+| **Get License** | [License this song: Pure Happiness](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pure-happiness/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat in the fading light
+> Drawing closer to you in the dead of night
+> There’s a spark we caught, we can’t put it out
+> You’re the only thing that I care about
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
